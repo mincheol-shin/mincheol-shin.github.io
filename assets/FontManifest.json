@@ -1,1 +1,1 @@
-[{"family":"MaterialIcons","fonts":[{"asset":"fonts/MaterialIcons-Regular.otf"}]},{"family":"Noto Sans KR","fonts":[{"asset":"assets/fonts/NotoSansKR-Regular.otf"},{"weight":700,"asset":"assets/fonts/NotoSansKR-Bold.otf"}]}]
+[{"family":"MaterialIcons","fonts":[{"asset":"fonts/MaterialIcons-Regular.otf"}]},{"family":"font","fonts":[{"asset":"assets/fonts/NotoSansKR-Regular.otf"}]},{"family":"font_bold","fonts":[{"asset":"assets/fonts/NotoSansKR-Bold.otf"}]}]
