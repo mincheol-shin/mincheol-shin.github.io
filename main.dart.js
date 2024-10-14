@@ -95293,7 +95293,7 @@ k=document.createElement("a")
 k.href=l
 m=A.cE(m,".png","")
 m=A.cE(m,".jpg","")
-k.setAttribute("download",A.cE(m,"jpeg",""))
+k.setAttribute("download",A.cE(m,".jpeg",""))
 k.click();(self.URL||self.webkitURL).revokeObjectURL(l)
 s=4
 break
